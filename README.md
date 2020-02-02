@@ -38,10 +38,10 @@ Here you can find the [Pom](pom.xml) file, to see the configuration used in this
 
 Another reason why MAVE was selected is because Intellij IDEA has excellent integration, facilitating user use with a graphical interface.
 
-
+![Maven](Documents/img/Maven.png)
 
 ## 5. Testing
-## 6. Continuos Delivery
+## 6. Continuous Delivery
 ## 7. IDE
 
 The IDE "IntelliJ IDEA" was used for this project because of its versatility and the possibility of integrating plugins in a simple way.
@@ -56,3 +56,5 @@ The commands below are for Mac OS:
 
 ## 8. DSL
 ## 9. Functional Programming 
+
+1. Only Final Data Structures
