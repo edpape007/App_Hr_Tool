@@ -39,11 +39,11 @@ The IDE "IntelliJ IDEA" was used for this project because of its versatility and
 
 The commands below are for Mac OS:
 
-  - ctrl + space bar --> to autocomplete or show the available options.
-  - cmd + R --> to run the project
-  - cmd + fn + F2 --> to stop the running project
-  - 
-
+  - Ctrl + space bar --> to autocomplete or show the available options.
+  - Cmd + R --> to run the project
+  - Cmd + Fn + F2 --> to stop the running project
+  - Alt + Cmd + K --> commit and push to github 
+  - Ctrl + Tab --> File Switcher
 
 ## 8. DSL
 ## 9. Functional Programming 
