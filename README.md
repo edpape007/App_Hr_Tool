@@ -45,7 +45,11 @@ Another reason why MAVE was selected is because Intellij IDEA has excellent inte
 
 ## 5. Testing
 
+Unit tests are contained in the [Test](src/test/java/com/hrtool) directory.
 
+![TestFolder](Documents/img/Test_Folder.png)
+
+![TestResults](Documents/img/Test_Result.png)
 
 ## 6. Continuous Delivery
 
