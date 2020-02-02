@@ -31,6 +31,11 @@ Second part of the flow:
 ## 2. Metrics
 ## 3. Clean Code
 ## 4. Build Management
+
+MAVEN was used for this project due to its excellent integration with the java. MAVEN use POM(Project Object Model) and is the fundamental unit of work in Maven. POM is an XML file that contains information about the project and configuration details used by Maven to build the project.
+
+
+
 ## 5. Testing
 ## 6. Continuos Delivery
 ## 7. IDE
