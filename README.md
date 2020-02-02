@@ -31,6 +31,15 @@ Second part of the flow:
 ## 2. Metrics
 ## 3. Clean Code
 ## 4. Build Management
+
+MAVEN was used for this project due to its excellent integration with the java. MAVEN use POM(Project Object Model) and is the fundamental unit of work in Maven. POM is an XML file that contains information about the project and configuration details used by Maven to build the project.
+
+Here you can find the [Pom](pom.xml) file, to see the configuration used in this project.
+
+Another reason why MAVE was selected is because Intellij IDEA has excellent integration, facilitating user use with a graphical interface.
+
+
+
 ## 5. Testing
 ## 6. Continuos Delivery
 ## 7. IDE
@@ -39,11 +48,11 @@ The IDE "IntelliJ IDEA" was used for this project because of its versatility and
 
 The commands below are for Mac OS:
 
-  - ctrl + space bar --> to autocomplete or show the available options.
-  - cmd + R --> to run the project
-  - cmd + fn + F2 --> to stop the running project
-  - 
-
+  - Ctrl + space bar --> to autocomplete or show the available options.
+  - Cmd + R --> to run the project
+  - Cmd + Fn + F2 --> to stop the running project
+  - Alt + Cmd + K --> commit and push to github 
+  - Ctrl + Tab --> File Switcher
 
 ## 8. DSL
 ## 9. Functional Programming 
