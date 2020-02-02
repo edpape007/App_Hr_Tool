@@ -14,10 +14,19 @@ This is useful for human resources areas to obtain feedback from both the employ
 
 #### Boss
 
+This is the flow for the boss process:
 
+![boss_flow](Documents/img/uml1.png)
 
 #### Employee
 
+This is the flow for the employee process:
+
+![employee_flow1](Documents/img/uml2.png)
+
+Second part of the flow:
+
+![employee_flow2](Documents/img/uml3.png)
 
 ## 2. Metrics
 ## 3. Clean Code
@@ -25,5 +34,16 @@ This is useful for human resources areas to obtain feedback from both the employ
 ## 5. Testing
 ## 6. Continuos Delivery
 ## 7. IDE
+
+The IDE "IntelliJ IDEA" was used for this project because of its versatility and the possibility of integrating plugins in a simple way.
+
+The commands below are for Mac OS:
+
+  - ctrl + space bar --> to autocomplete or show the available options.
+  - cmd + R --> to run the project
+  - cmd + fn + F2 --> to stop the running project
+  - 
+
+
 ## 8. DSL
 ## 9. Functional Programming 
