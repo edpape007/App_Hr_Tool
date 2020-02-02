@@ -29,6 +29,9 @@ Second part of the flow:
 ![employee_flow2](Documents/img/uml3.png)
 
 ## 2. Metrics
+
+SONARQUBE was used for this project
+
 ## 3. Clean Code
 ## 4. Build Management
 
@@ -41,7 +44,13 @@ Another reason why MAVE was selected is because Intellij IDEA has excellent inte
 ![Maven](Documents/img/Maven.png)
 
 ## 5. Testing
+
+
+
 ## 6. Continuous Delivery
+
+JENKINS was used for this project
+
 ## 7. IDE
 
 The IDE "IntelliJ IDEA" was used for this project because of its versatility and the possibility of integrating plugins in a simple way.
