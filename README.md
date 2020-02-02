@@ -34,6 +34,10 @@ Second part of the flow:
 
 MAVEN was used for this project due to its excellent integration with the java. MAVEN use POM(Project Object Model) and is the fundamental unit of work in Maven. POM is an XML file that contains information about the project and configuration details used by Maven to build the project.
 
+Here you can find the [Pom](pom.xml) file, to see the configuration used in this project.
+
+Another reason why MAVE was selected is because Intellij IDEA has excellent integration, facilitating user use with a graphical interface.
+
 
 
 ## 5. Testing
