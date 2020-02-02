@@ -33,6 +33,9 @@ Second part of the flow:
 SONARQUBE was used for this project
 
 ## 3. Clean Code
+
+This is the link for the [CheatSheet](Documents/CleanCode_CheatSheet.rst) use for this section.
+
 ## 4. Build Management
 
 MAVEN was used for this project due to its excellent integration with the java. MAVEN use POM(Project Object Model) and is the fundamental unit of work in Maven. POM is an XML file that contains information about the project and configuration details used by Maven to build the project.
