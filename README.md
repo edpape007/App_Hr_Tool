@@ -58,3 +58,7 @@ The commands below are for Mac OS:
 ## 9. Functional Programming 
 
 1. Only Final Data Structures
+   
+   You can find the definition of an employee (or boss because both are employees the difference is the relation between them)    in the class Employee.java [Employee.java](src/main/java/com/hrtool/model/Employee.java)
+   
+   ![FinalStructures](Documents/img/FinalStructures.png)
