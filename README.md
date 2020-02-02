@@ -32,6 +32,9 @@ Second part of the flow:
 
 SONARQUBE was used for this project
 
+[![Quality Gate Status](http://localhost:9000/api/project_badges/measure?project=App_HR_Tool&metric=alert_status)](http://localhost:9000/dashboard?id=App_HR_Tool)
+
+
 ## 3. Clean Code
 
 This is the link for the [CheatSheet](Documents/CleanCode_CheatSheet.rst) use for this section.
