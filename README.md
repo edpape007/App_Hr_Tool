@@ -36,13 +36,14 @@ Here you can see the metrics of my project : [![Quality Gate Status](https://son
 
 This is a summary:
 
-
-
+![Metrics](Documents/img/Metrics.png)
 
 
 ## 3. Clean Code
 
 This is the link for the [CheatSheet](Documents/CleanCode_CheatSheet.rst) use for this section.
+
+don't repeat yourself 
 
 ## 4. Build Management
 
