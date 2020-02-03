@@ -30,11 +30,14 @@ Second part of the flow:
 
 ## 2. Metrics
 
-SONARQUBE was used for this project
+At the beginning, SONARQUBE was used to perform the metrics, but since it was a direct installation on my computer, it was difficult to share the results in this document, so I decided to switch to SONARCLOUD which is a solution in the cloud and allowed me to easily share the results of my metrics.
 
-[![Quality Gate Status](http://localhost:9000/api/project_badges/measure?project=App_HR_Tool&metric=alert_status)](http://localhost:9000/dashboard?id=App_HR_Tool)
+Here you can see the metrics of my project : [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=edpape007_App_Hr_Tool&metric=alert_status)](https://sonarcloud.io/dashboard?id=edpape007_App_Hr_Tool)
 
-http://localhost:9000/api/project_badges/measure?project=App_HR_Tool&metric=sqale_index
+This is a summary:
+
+
+
 
 
 ## 3. Clean Code
