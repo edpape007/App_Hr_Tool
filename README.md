@@ -75,7 +75,13 @@ To test them, the POSTMAN application was used, which has a user-friendly graphi
 
 ## 6. Continuous Delivery
 
-JENKINS was used for this project
+JENKINS was used for this project, in order to use JENKINS it was created a file with the pipeline instructions. you can find the file here: [Jenkins_Pipeline](Jenkinsfile)  
+
+Once we already configure this file we can execute the pipeline and this is the result: 
+
+![JenkinsResult](Documents/img/Jenkins.png)
+
+In the previous image we can see that the pipeline is working properly and finish the deployment correctly.
 
 ## 7. IDE
 
