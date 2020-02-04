@@ -43,7 +43,6 @@ This is a summary:
 
 This is the link for the [CheatSheet](Documents/CleanCode_CheatSheet.rst) use for this section.
 
-don't repeat yourself 
 
 ## 4. Build Management
 
@@ -72,6 +71,11 @@ And to test the code and that its functionality was successful, "Spring Boot" wa
 It consists of GET - POST - PUT methods that serve to test the methods and functions that were created for the application.
 
 To test them, the POSTMAN application was used, which has a user-friendly graphic interface to perform these tests.
+
+I.E.: 
+
+![Postman](Documents/img/Postman.png)
+
 
 ## 6. Continuous Delivery
 
