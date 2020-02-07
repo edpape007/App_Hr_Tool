@@ -140,9 +140,17 @@ For example in the EmployeeService class the method [associate](https://github.c
    ![FinalStructures](Documents/img/FinalStructures.png)
 
 
-(Mostly) side effect free functions https://github.com/edpape007/App_Hr_Tool/blob/493d331265b50db21f730c4f4d7cbeea28f9d4b1/src/main/java/com/hrtool/service/EmployeeService.java#L101
+2. (Mostly) side effect free functions  
 
-Use of higher order functions: Functions as parameters and return values --> https://github.com/edpape007/App_Hr_Tool/blob/493d331265b50db21f730c4f4d7cbeea28f9d4b1/src/main/java/com/hrtool/service/EmployeeService.java#L124 --> la function collect se le entrega otra function tolist para recoger todos los items que estan en el stream y guardarlos en una lista 
+  [Function Example](https://github.com/edpape007/App_Hr_Tool/blob/493d331265b50db21f730c4f4d7cbeea28f9d4b1/src/main/java/com/hrtool/service/EmployeeService.java#L101)
 
-anonymus function --> funciones que no tienen un nombre que se ejecutan en el momento que son creadas --> https://github.com/edpape007/App_Hr_Tool/blob/493d331265b50db21f730c4f4d7cbeea28f9d4b1/src/main/java/com/hrtool/service/EmployeeService.java#L124 --> utilizando un filtro que ejecuta una funciont que devuelve un boolean 
+3. Use of higher order functions: Functions as parameters and return values
+
+   The functions "collect" is using other function "toList" in order to pick every item in the stream and store it in a list.
+   
+   For [example](https://github.com/edpape007/App_Hr_Tool/blob/493d331265b50db21f730c4f4d7cbeea28f9d4b1/src/main/java/com/hrtool/service/EmployeeService.java#L124)
+
+4. Anonymus function 
+
+   In example filter is using a function to return a boolean [Example](https://github.com/edpape007/App_Hr_Tool/blob/493d331265b50db21f730c4f4d7cbeea28f9d4b1/src/main/java/com/hrtool/service/EmployeeService.java#L124)
 
