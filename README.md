@@ -36,6 +36,7 @@ Here you can see the metrics of my project : [![Quality Gate Status](https://son
 
 This is a summary:
 
+
 ![Metrics](Documents/img/Metrics.png)
 
 
