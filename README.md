@@ -126,19 +126,9 @@ The commands below are for Mac OS:
 
 ## 8. DSL
 
------------
+For this project a language was created in order to create objects of type "employee" to used it in the most flexible way.
 
-employeeservice -->   associate --> creamos un lenguaje para crear objetos de tipo employee de forma flexible 
-
-
------------
-
-(Mostly) side effect free functions https://github.com/edpape007/App_Hr_Tool/blob/493d331265b50db21f730c4f4d7cbeea28f9d4b1/src/main/java/com/hrtool/service/EmployeeService.java#L101
-
-Use of higher order functions: Functions as parameters and return values --> https://github.com/edpape007/App_Hr_Tool/blob/493d331265b50db21f730c4f4d7cbeea28f9d4b1/src/main/java/com/hrtool/service/EmployeeService.java#L124 --> la function collect se le entrega otra function tolist para recoger todos los items que estan en el stream y guardarlos en una lista 
-
-anonymus function --> funciones que no tienen un nombre que se ejecutan en el momento que son creadas --> https://github.com/edpape007/App_Hr_Tool/blob/493d331265b50db21f730c4f4d7cbeea28f9d4b1/src/main/java/com/hrtool/service/EmployeeService.java#L124 --> utilizando un filtro que ejecuta una funciont que devuelve un boolean 
-
+For example in the EmployeeService class the method [associate](https://github.com/edpape007/App_Hr_Tool/blob/b5f0049518f84d812971a73cd33840c97c84ff39/src/main/java/com/hrtool/service/EmployeeService.java#L68) 
 
 
 ## 9. Functional Programming 
@@ -148,3 +138,11 @@ anonymus function --> funciones que no tienen un nombre que se ejecutan en el mo
    You can find the definition of an employee (or boss because both are employees the difference is the relation between them)    in the class [Employee.java](src/main/java/com/hrtool/model/Employee.java)
    
    ![FinalStructures](Documents/img/FinalStructures.png)
+
+
+(Mostly) side effect free functions https://github.com/edpape007/App_Hr_Tool/blob/493d331265b50db21f730c4f4d7cbeea28f9d4b1/src/main/java/com/hrtool/service/EmployeeService.java#L101
+
+Use of higher order functions: Functions as parameters and return values --> https://github.com/edpape007/App_Hr_Tool/blob/493d331265b50db21f730c4f4d7cbeea28f9d4b1/src/main/java/com/hrtool/service/EmployeeService.java#L124 --> la function collect se le entrega otra function tolist para recoger todos los items que estan en el stream y guardarlos en una lista 
+
+anonymus function --> funciones que no tienen un nombre que se ejecutan en el momento que son creadas --> https://github.com/edpape007/App_Hr_Tool/blob/493d331265b50db21f730c4f4d7cbeea28f9d4b1/src/main/java/com/hrtool/service/EmployeeService.java#L124 --> utilizando un filtro que ejecuta una funciont que devuelve un boolean 
+
