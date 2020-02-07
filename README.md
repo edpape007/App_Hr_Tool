@@ -141,8 +141,8 @@ For example in the EmployeeService class the method [associate](https://github.c
 
 
 2. (Mostly) side effect free functions  
-
-  [Function Example](https://github.com/edpape007/App_Hr_Tool/blob/493d331265b50db21f730c4f4d7cbeea28f9d4b1/src/main/java/com/hrtool/service/EmployeeService.java#L101)
+    
+    [Function Example](https://github.com/edpape007/App_Hr_Tool/blob/493d331265b50db21f730c4f4d7cbeea28f9d4b1/src/main/java/com/hrtool/service/EmployeeService.java#L101)
 
 3. Use of higher order functions: Functions as parameters and return values
 
